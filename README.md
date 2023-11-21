@@ -62,5 +62,7 @@ In the admin/ page you can view the models created
 And  in the user_profile template page you can see the profile page of the user.
 
 # Output
-![Alt text](image.png)
-![Alt text](<Screenshot 2023-11-21 113334-1.png>)
+![Screenshot 2023-11-21 122024](https://github.com/vinodhini-17/ODD2023-WT-Ex-04-Django-Models/assets/145742741/d08dd676-9375-4148-8d88-c82399049331)
+![Screenshot 2023-11-21 113334](https://github.com/vinodhini-17/ODD2023-WT-Ex-04-Django-Models/assets/145742741/3bc5c12a-559c-4dfa-a1df-1662f692aca7)
+
+
